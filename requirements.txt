@@ -1,6 +1,7 @@
-nltk
+nltk==3.2.4
 spacy
 gensim
 pyLDAvis
 rake_nltk
 wordcloud
+transformers
