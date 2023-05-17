@@ -1,7 +1,11 @@
-nltk==3.2.4
+nltk
 spacy
 gensim
 pyLDAvis
 rake_nltk
 wordcloud
 transformers
+tensorflow
+seaborn
+pyarrow
+gcsfs
