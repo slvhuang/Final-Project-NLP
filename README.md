@@ -3,3 +3,10 @@ Shijia Huang
 
 ## Artificial Intelligence Trends and Insights from News Articles
 
+- Text Cleaning
+- Article Filtering
+- Topic Detection
+- Customized Sentiment Analysis
+- Timeline Analysis
+- Entity Identification
+- Targeted Entity Sentiment Identification
