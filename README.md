@@ -3,10 +3,7 @@ Shijia Huang
 
 ## Unveiling the AI Frontier: Insights for Predicting Industry Disruption and Job Transformation
 
-- Executive Summary
-  - High-level summary of the background and project objectives
-- Methodology & Source Data Overview
-  - NLP techniques utilized and overview of the data source
+
 - Text Cleaning & Article Filtering
   - Data preprocessing, cleaning, and filtering relevant articles
 - Topic Detection
@@ -19,5 +16,3 @@ Shijia Huang
   - Timelines of sentiment changing and introduction of new AI technologies
 - Targeted Entity Sentiment Identification
   - Targeted sentiment analysis on major organizations and AI initiatives
-- Conclusions & Recommendations
-  - Analysis summary and making actionable recommendations
